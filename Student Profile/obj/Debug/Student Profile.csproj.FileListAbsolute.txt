@@ -1,0 +1,11 @@
+c:\users\tina\documents\visual studio 2015\Projects\Student Profile\Student Profile\bin\Debug\Student Profile.exe.config
+c:\users\tina\documents\visual studio 2015\Projects\Student Profile\Student Profile\bin\Debug\Student Profile.exe
+c:\users\tina\documents\visual studio 2015\Projects\Student Profile\Student Profile\bin\Debug\Student Profile.pdb
+c:\users\tina\documents\visual studio 2015\Projects\Student Profile\Student Profile\obj\Debug\Student Profile.csprojResolveAssemblyReference.cache
+c:\users\tina\documents\visual studio 2015\Projects\Student Profile\Student Profile\obj\Debug\Student_Profile.Form1.resources
+c:\users\tina\documents\visual studio 2015\Projects\Student Profile\Student Profile\obj\Debug\Student_Profile.Properties.Resources.resources
+c:\users\tina\documents\visual studio 2015\Projects\Student Profile\Student Profile\obj\Debug\Student Profile.csproj.GenerateResource.Cache
+c:\users\tina\documents\visual studio 2015\Projects\Student Profile\Student Profile\obj\Debug\Student Profile.exe
+c:\users\tina\documents\visual studio 2015\Projects\Student Profile\Student Profile\obj\Debug\Student Profile.pdb
+C:\Users\Tina\documents\visual studio 2015\Projects\Student Profile\Student Profile\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tina\documents\visual studio 2015\Projects\Student Profile\Student Profile\bin\Debug\System.Data.SQLite.xml
